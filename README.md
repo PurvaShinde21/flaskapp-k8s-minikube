@@ -57,4 +57,4 @@ minikube service flask-service
 ```
 
 ## Docker Hub Repository
-The Docker image is available at: `https://hub.docker.com/r/purvashinde21/flask-app`
+The Docker image is available at: https://hub.docker.com/r/purvashinde21/flask-app
